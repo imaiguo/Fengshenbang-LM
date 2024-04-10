@@ -1,0 +1,5 @@
+transformers
+sentencepiece
+accelerate
+jupyter
+bitsandbytes
